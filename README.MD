@@ -108,4 +108,8 @@ int main(int argc,char * argv[])
 ./configure --prefix=/usr/local/curl --disable-shared --enable-static --without-libidn --without-ssl --without-librtmp --without-gnutls --without-nss --without-libssh2 --without-zlib --without-winidn --disable-rtsp --disable-ldap --disable-ldaps --disable-ipv6
 ```
 
+资源下载：
+https://curl.haxx.se/download/curl-7.54.1.tar.gz
+https://dl.google.com/android/repository/android-ndk-r10e-linux-x86_64.zip
+
 
